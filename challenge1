@@ -1,0 +1,10 @@
+alert('Good morning'); // answer to number 1
+alert('Jonathan'); // answer to number 2
+10 + 5; // answwer to number 3
+20 - 5; //answer to number 4
+2+2-5;  //answer to number 5
+ document.body.innerHTML = 'Good morning';  //answer to number 6
+document.body.inner.HTML = 'Jonathan';  //answer to number 7
+10 + 8 + 20;  //answer to number 8
+100 - 20 - 50 + 200;  //answer to number 9
+document.body.innerHTML = '';  //answer to number 10
